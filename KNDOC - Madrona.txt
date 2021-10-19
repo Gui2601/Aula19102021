@@ -1,0 +1,14 @@
+Instalação do Kndoc Madrona
+===================================
+
+
+3A_Madrona.nome
+
+1 - Extrair a pasta Kndoc.zip
+2 - copiar a pasta para o disco c:
+3- abrir janela do cmd como administrador
+navegar para a pasta c:\kndoc
+4 - instalar o servico: installutil.exe kndocservico.exe
+5 - executar o comando: NET START Kndocservico
+6 - Ativar a localização
+7 - Acrescentar o nome de usuário e dados à respeito da garantia no KNMONITOR
